@@ -1,3 +1,14 @@
+# ポケモン　表示アプリ
+
+pokeapi(https://pokeapi.co/)を利用し、取得したidをもとに、ポケモンの画像を表示するアプリケーションです。
+
+## アプリ作成の意図
+-[playwwight](https://playwright.dev/docs/intro)の仕様に慣れる
+-typescriptを使用した、フロントエンドの実装に慣れる
+-状態管理に、tanstack-queryを使用することでモダンな技術になれるる。
+
+==========================
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
